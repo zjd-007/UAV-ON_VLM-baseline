@@ -1,0 +1,35 @@
+{
+  "format": "llamafactory_sharegpt_multimodal_jsonl",
+  "source": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/nomemory_baseline/train_frames.jsonl",
+  "output": "VLM-baseline/data/uavon_phi35_sft_depth_grid_smoke.jsonl",
+  "dataset_root": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset",
+  "aligned_root": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/generated/record_output_transition_aligned",
+  "depth_cache": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/depth_grid_cache/train",
+  "rows": 5,
+  "episodes": 1,
+  "missing_depth": 5,
+  "skipped_missing_depth": 0,
+  "action_counts": {
+    "turn right 30 degree": 4,
+    "descend 3m": 1
+  },
+  "scene_counts": {
+    "BrushifyUrban": 5
+  },
+  "prompt_template": "Target: {target_description}\n\n{depth_context}\n\nWhat action should the UAV take to find the target? Choose exactly one command from: {action_space}. Reply with only the command.",
+  "commands": [
+    "ascend 3m",
+    "descend 3m",
+    "forward 3m",
+    "stop",
+    "turn left 30 degree",
+    "turn right 30 degree"
+  ],
+  "depth_prompt": {
+    "module": "uavon_single_view_prompt",
+    "grid_size": 3,
+    "max_meters": 100.0,
+    "summary_in_prompt": false
+  },
+  "note": "Formal training should use a real AirSim depth cache. missing_depth_policy=far is for smoke tests only."
+}

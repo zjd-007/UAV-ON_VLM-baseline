@@ -1,0 +1,60 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Editors and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets and machine-local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Downloaded models and generated experiment artifacts
+models/
+outputs/
+results/
+logs/
+run_pids/
+wandb/
+runs/
+eval/generated_settings/
+
+# Full datasets are stored outside Git. Keep metadata, evaluation subsets,
+# and a few small smoke-test samples needed to validate the pipeline.
+data/*
+!data/dataset_info.json
+!data/eval_subsets/
+!data/eval_subsets/**
+!data/uavon_phi35_sft_smoke.jsonl
+!data/uavon_phi35_sft_smoke_manifest.json
+!data/uavon_phi35_sft_depth_grid_smoke.jsonl
+!data/uavon_phi35_sft_depth_grid_smoke_manifest.json
+!data/uavon_phi35_sft_depth_grid_collision_filtered_smoke.jsonl
+!data/uavon_phi35_sft_depth_grid_collision_filtered_smoke_manifest.json
+!data/uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_smoke.jsonl
+!data/uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_smoke_manifest.json
+
+# Model/checkpoint formats: safeguard against accidental large commits
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Runtime and backup files
+*.log
+*.pid
+*.tmp
+*.bak
+*.bak_*

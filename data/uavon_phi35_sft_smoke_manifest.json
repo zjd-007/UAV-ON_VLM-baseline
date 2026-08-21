@@ -1,0 +1,37 @@
+{
+  "format": "llamafactory_sharegpt_multimodal_jsonl",
+  "source": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/nomemory_baseline/train_frames.jsonl",
+  "output": "data/uavon_phi35_sft_smoke.jsonl",
+  "dataset_root": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset",
+  "rows": 100,
+  "episodes": 5,
+  "action_counts": {
+    "descend 3m": 2,
+    "turn right 30 degree": 22,
+    "forward 3m": 34,
+    "turn left 30 degree": 6,
+    "stop": 4,
+    "ascend 3m": 32
+  },
+  "scene_counts": {
+    "BrushifyUrban": 100
+  },
+  "prompt_template": "What action should the UAV take to find {target_description}? Choose exactly one command from: {action_space}. Reply with only the command.",
+  "commands": [
+    "ascend 3m",
+    "descend 3m",
+    "forward 3m",
+    "stop",
+    "turn left 30 degree",
+    "turn right 30 degree"
+  ],
+  "forbidden_model_inputs": [
+    "depth",
+    "history",
+    "pose",
+    "goal",
+    "distance",
+    "memory",
+    "previous_action"
+  ]
+}

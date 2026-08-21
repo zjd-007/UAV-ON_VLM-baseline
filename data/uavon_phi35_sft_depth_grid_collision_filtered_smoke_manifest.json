@@ -1,0 +1,110 @@
+{
+  "format": "llamafactory_sharegpt_multimodal_jsonl",
+  "source": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/nomemory_baseline/train_frames.jsonl",
+  "output": "/data/zhujd/Aerial-ObjectNav/VLM-baseline/data/uavon_phi35_sft_depth_grid_collision_filtered_smoke.jsonl",
+  "dataset_root": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset",
+  "aligned_root": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/generated/record_output_transition_aligned",
+  "depth_cache": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/depth_grid_cache/train",
+  "rows_read": 19,
+  "rows": 16,
+  "episodes": 2,
+  "skipped_collision": 3,
+  "missing_depth": 0,
+  "skipped_missing_depth": 0,
+  "action_counts": {
+    "turn right 30 degree": 10,
+    "descend 3m": 2,
+    "forward 3m": 2,
+    "turn left 30 degree": 1,
+    "stop": 1
+  },
+  "scene_counts": {
+    "BrushifyUrban": 16
+  },
+  "prompt_template": "Target: {target_description}\n\n{context}\n\nWhat action should the UAV take to find the target? Choose exactly one command from: {action_space}. Reply with only the command.",
+  "commands": [
+    "ascend 3m",
+    "descend 3m",
+    "forward 3m",
+    "stop",
+    "turn left 30 degree",
+    "turn right 30 degree"
+  ],
+  "depth_prompt": {
+    "module": "uavon_single_view_prompt",
+    "grid_size": 3,
+    "max_meters": 100.0,
+    "summary_in_prompt": false
+  },
+  "collision_filter": {
+    "original_dir": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/label_action_collision_check/label_action_collision_full_20260715_175048",
+    "repair_dir": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/processed/label_action_collision_check/label_action_collision_full_20260715_175048_repair_lane3",
+    "original_stats": {
+      "rows": 250005,
+      "checked": 233250,
+      "new_collisions": 24374
+    },
+    "repair_stats": {
+      "rows": 16755,
+      "checked": 16755,
+      "new_collisions": 1676
+    },
+    "repair_override_keys": 16755,
+    "skipped_original_repaired": 16755,
+    "unresolved_error_keys": 0,
+    "exclude_unresolved_errors": true,
+    "excluded_keys": 26050,
+    "scene_stats_without_repair_overrides": {
+      "BrushifyUrban": {
+        "rows": 41463,
+        "checked": 41463,
+        "new_collisions": 2276
+      },
+      "CabinLake": {
+        "rows": 24803,
+        "checked": 24803,
+        "new_collisions": 1126
+      },
+      "CityPark": {
+        "rows": 28452,
+        "checked": 28452,
+        "new_collisions": 1975
+      },
+      "DownTown": {
+        "rows": 22968,
+        "checked": 22968,
+        "new_collisions": 1189
+      },
+      "Neighborhood": {
+        "rows": 19421,
+        "checked": 15156,
+        "new_collisions": 2697
+      },
+      "Slum": {
+        "rows": 32427,
+        "checked": 32427,
+        "new_collisions": 6664
+      },
+      "UrbanJapan": {
+        "rows": 14371,
+        "checked": 14371,
+        "new_collisions": 2413
+      },
+      "Venice": {
+        "rows": 17884,
+        "checked": 17884,
+        "new_collisions": 3333
+      },
+      "WesternTown": {
+        "rows": 17340,
+        "checked": 4850,
+        "new_collisions": 857
+      },
+      "WinterTown": {
+        "rows": 30876,
+        "checked": 30876,
+        "new_collisions": 1844
+      }
+    }
+  }
+}

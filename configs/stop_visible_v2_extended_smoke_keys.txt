@@ -1,0 +1,41 @@
+# Deterministic 2026-08-12 sample: one small, mid, and big target per train scene.
+# BrushifyUrban
+BrushifyUrban::253::0
+BrushifyUrban::469::0
+BrushifyUrban::157::0
+# CabinLake
+CabinLake::975::0
+CabinLake::661::0
+CabinLake::429::0
+# CityPark
+CityPark::1072::0
+CityPark::152::0
+CityPark::905::0
+# DownTown
+DownTown::89::0
+DownTown::531::0
+DownTown::214::0
+# Neighborhood
+Neighborhood::730::0
+Neighborhood::393::0
+Neighborhood::450::0
+# Slum
+Slum::792::0
+Slum::81::0
+Slum::56::0
+# UrbanJapan
+UrbanJapan::481::0
+UrbanJapan::212::0
+UrbanJapan::5::0
+# Venice
+Venice::327::0
+Venice::232::0
+Venice::87::0
+# WesternTown
+WesternTown::735::0
+WesternTown::328::0
+WesternTown::591::0
+# WinterTown
+WinterTown::376::0
+WinterTown::576::0
+WinterTown::715::0

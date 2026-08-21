@@ -1,0 +1,20 @@
+# Known failure: frame 16 contains the stove; legacy frame 17 is Stop without it.
+CabinLake::354::0
+# CabinLake size coverage.
+CabinLake::600::0
+CabinLake::250::0
+CabinLake::525::0
+# WesternTown size coverage and a known large tent trajectory.
+WesternTown::72::0
+WesternTown::372::0
+WesternTown::572::0
+WesternTown::0::0
+# WinterTown size coverage and a known large tent trajectory.
+WinterTown::0::0
+WinterTown::48::0
+WinterTown::168::0
+WinterTown::916::0
+# BrushifyUrban size coverage.
+BrushifyUrban::0::0
+BrushifyUrban::200::0
+BrushifyUrban::225::0

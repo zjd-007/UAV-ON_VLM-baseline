@@ -1,0 +1,12 @@
+### model
+model_name_or_path: microsoft/Phi-3.5-vision-instruct
+adapter_name_or_path: ./outputs/phi35_uavon_lora_r256
+template: phi3v
+trust_remote_code: true
+flash_attn: fa2
+
+### export
+export_dir: ./outputs/phi35_uavon_lora_r256_merged
+export_size: 5
+export_device: cpu
+export_legacy_format: false

@@ -1,0 +1,162 @@
+{
+  "uavon_phi35_sft": {
+    "file_name": "uavon_phi35_sft.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_smoke": {
+    "file_name": "uavon_phi35_sft_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid": {
+    "file_name": "uavon_phi35_sft_depth_grid.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_collision_filtered": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_collision_filtered_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_collision_filtered": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_collision_filtered_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_collision_filtered_stop_visible_v4": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered_stop_visible_v4.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_collision_filtered_stop_visible_v4": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered_stop_visible_v4.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_collision_filtered_stop_visible_v4_appended": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered_stop_visible_v4_appended.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_collision_filtered_stop_visible_v4_appended": {
+    "file_name": "uavon_phi35_sft_depth_grid_collision_filtered_stop_visible_v4_appended.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1": {
+    "file_name": "uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1": {
+    "file_name": "uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_size_hybrid_a_v1": {
+    "file_name": "uavon_phi35_sft_depth_grid_size_hybrid_a_v1.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_phi35_sft_depth_grid_size_hybrid_a_v1_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_size_hybrid_a_v1_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_size_hybrid_a_v1": {
+    "file_name": "uavon_phi35_sft_depth_grid_size_hybrid_a_v1.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "uavon_qwen25_vl_sft_depth_grid_size_hybrid_a_v1_smoke": {
+    "file_name": "uavon_phi35_sft_depth_grid_size_hybrid_a_v1_smoke.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  }
+}

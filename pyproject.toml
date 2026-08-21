@@ -1,0 +1,21 @@
+[project]
+name = "uavon-vlm-baseline"
+version = "0.1.0"
+description = "Phi-3.5-Vision LoRA baseline for UAV-ON"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "pillow",
+  "torch",
+  "transformers",
+  "peft",
+  "accelerate",
+  "opencv-python",
+  "scipy",
+  "tqdm",
+  "airsim",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]

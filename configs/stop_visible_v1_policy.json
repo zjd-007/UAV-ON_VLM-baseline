@@ -1,0 +1,34 @@
+{
+  "name": "stop_visible_v1_smoke_calibrated_20260812",
+  "status": "smoke_calibrated_pending_full_review",
+  "policy": {
+    "min_pixels": {
+      "small": 512,
+      "mid": 512,
+      "big": 512,
+      "unknown": 512
+    },
+    "min_bbox_short_side": {
+      "small": 24,
+      "mid": 24,
+      "big": 24,
+      "unknown": 24
+    },
+    "strong_pixels": {
+      "small": 800,
+      "mid": 800,
+      "big": 1000,
+      "unknown": 800
+    },
+    "min_relative_to_peak": 0.0,
+    "max_pixel_fraction": 0.75,
+    "max_edge_contact_fraction": 0.25,
+    "max_clipped_sides": 2,
+    "reject_opposite_borders": true,
+    "semantic_score_field": "clip_crop_description_score",
+    "min_semantic_score": 0.25,
+    "semantic_rank_field": "clip_crop_target_rank",
+    "max_semantic_rank": 5,
+    "require_semantic_for_weak_geometry": true
+  }
+}

@@ -1,0 +1,46 @@
+### model
+model_name_or_path: ./models/Qwen2.5-VL-7B-Instruct
+flash_attn: fa2
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 256
+lora_alpha: 512
+lora_dropout: 0.05
+lora_target: all
+freeze_vision_tower: true
+freeze_multi_modal_projector: true
+
+### dataset
+dataset_dir: ./data
+dataset: uavon_qwen25_vl_sft_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1
+template: qwen2_vl
+default_system: ""
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: ./outputs/qwen25_vl_lora_r256_language_only_depth_grid_stop_visible_v4_per_frame_safe_stopbank_v1_20260816_141936
+logging_steps: 10
+save_steps: 1000
+plot_loss: true
+overwrite_output_dir: false
+save_only_model: false
+report_to: none
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 2.0e-5
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+gradient_checkpointing: true
+disable_gradient_checkpointing: false
+ddp_timeout: 180000000
+ddp_find_unused_parameters: false
+deepspeed: configs/ds_zero2.json

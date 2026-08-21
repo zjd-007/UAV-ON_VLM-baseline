@@ -1,0 +1,3702 @@
+[
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -282.7460905487492,
+        -107.54151603053101,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.27740825294681576,
+        -0.9607521330691884
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 50.7181
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " BusStop",
+    "object_name": "BusStop_2",
+    "pose": [
+      [
+        -328.3927307128906,
+        -86.79273986816406,
+        0.6287254095077515
+      ]
+    ],
+    "size": " big(5.0*3.0=15.0 squares)",
+    "description": " Geometric rectangular structure, transparent glass walls with dark metal framing, includes bench seating and overhanging roof panels, designed for public transit waiting area.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "2",
+    "start_pose": {
+      "start_position": [
+        -9.528005566856024,
+        -66.4447527048503,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9570623530667257,
+        -0.28988213525911194
+      ]
+    },
+    "info": {
+      "geodesic_distance": 10,
+      "euclidean_distance": 6.8623
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " TrafficLight",
+    "object_name": "TrafficLight_5",
+    "pose": [
+      [
+        -4.092743873596191,
+        -67.59274291992188,
+        -2.9712743759155273
+      ]
+    ],
+    "size": " small(1*1=1 squares)",
+    "description": " Geometric vertical structure, dark green metallic texture with signal lights, three stacked circular lenses in standard red-yellow-green arrangement, used for controlling vehicle and pedestrian traffic.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "10",
+    "start_pose": {
+      "start_position": [
+        -58.864250516448685,
+        58.481842422294605,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.35331444004409507,
+        0.9355046266354472
+      ]
+    },
+    "info": {
+      "geodesic_distance": 91,
+      "euclidean_distance": 58.9212
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " Teapot",
+    "object_name": "SM_Teapod_17",
+    "pose": [
+      [
+        -17.892744064331055,
+        100.7072525024414,
+        -10.171274185180664
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 squares)",
+    "description": " Geometric rounded form, bronze-like metallic finish with slight patina, classic spout and lid with side handle, used for brewing or pouring tea.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "11",
+    "start_pose": {
+      "start_position": [
+        -3.9238027771143607,
+        -198.58270064310193,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.19586165654097323,
+        0.980631537070385
+      ]
+    },
+    "info": {
+      "geodesic_distance": 41,
+      "euclidean_distance": 24.8616
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " Chair",
+    "object_name": "SM_Building_Int_Desk_Chair_20",
+    "pose": [
+      [
+        -14.792743682861328,
+        -182.99273681640625,
+        9.028725624084473
+      ]
+    ],
+    "size": " small(1*0.75=0.75 squares)",
+    "description": " Geometric upright form, dark wooden finish with curved armrests and slatted backrest, central pedestal base with four feet, designed for individual seating.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "14",
+    "start_pose": {
+      "start_position": [
+        34.67206464368246,
+        -152.99861582890048,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7173344318441315,
+        0.6967290096521438
+      ]
+    },
+    "info": {
+      "geodesic_distance": 87,
+      "euclidean_distance": 56.7107
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " Stool",
+    "object_name": "SM_Building_Int_Stool_25",
+    "pose": [
+      [
+        -13.092743873596191,
+        -179.0927276611328,
+        8.928725242614746
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 squares)",
+    "description": " Geometric circular top with four tapered legs, medium-brown wooden texture, compact and backless design, intended for single-person seating.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "15",
+    "start_pose": {
+      "start_position": [
+        33.2332399485781,
+        -193.25161098155277,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3470978458317863,
+        -0.9378289211892186
+      ]
+    },
+    "info": {
+      "geodesic_distance": 74,
+      "euclidean_distance": 51.1492
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " Table",
+    "object_name": "SM_Building_Int_Small_Drawer_28",
+    "pose": [
+      [
+        -13.992743492126465,
+        -181.89273071289062,
+        9.028725624084473
+      ]
+    ],
+    "size": " small(1*1=1 squares)",
+    "description": " Geometric rectangular form, polished wooden surface with four straight legs, compact and symmetrical, suitable for small workspace or decorative use.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "25",
+    "start_pose": {
+      "start_position": [
+        -93.8027601218347,
+        -273.17580651363966,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8698700171762812,
+        -0.4932810083692016
+      ]
+    },
+    "info": {
+      "geodesic_distance": 86,
+      "euclidean_distance": 57.5914
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " Lantern",
+    "object_name": "SM_Lantern_51",
+    "pose": [
+      [
+        -124.69274139404297,
+        -225.49273681640625,
+        2.428725481033325
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 square)",
+    "description": " Geometric cylindrical form, metallic blue body with glass enclosure, top-mounted handle and base support, used for portable illumination.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "38",
+    "start_pose": {
+      "start_position": [
+        143.15611150888077,
+        -17.451095237445116,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.2407893455872788,
+        -0.9705774008556196
+      ]
+    },
+    "info": {
+      "geodesic_distance": 44,
+      "euclidean_distance": 34.7798
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " AirConditioner",
+    "object_name": "SM_AirConditioner_70",
+    "pose": [
+      [
+        109.7072525024414,
+        -23.292743682861328,
+        0.5287254452705383
+      ]
+    ],
+    "size": " small(0.75*0.5=0.38 squares)",
+    "description": " Geometric box form, metallic housing with central circular fan grille, vented sides and compact build, likely used for cooling or ventilation purposes.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "57",
+    "start_pose": {
+      "start_position": [
+        -61.26835215826567,
+        -275.1692838394209,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6714937326634355,
+        0.7410102340681447
+      ]
+    },
+    "info": {
+      "geodesic_distance": 88,
+      "euclidean_distance": 56.4665
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " MonkeyBars",
+    "object_name": "SM_Climber01_20",
+    "pose": [
+      [
+        -100.49274444580078,
+        -235.9927215576172,
+        3.7287254333496094
+      ]
+    ],
+    "size": " mid(4.5*1.75=7.88 squares)",
+    "description": " Geometric rectangular frame, metal construction with yellow horizontal rungs and black vertical supports, open structure elevated from the ground, designed for playground climbing and swinging activity.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  },
+  {
+    "episode_id": "10",
+    "start_pose": {
+      "start_position": [
+        1020.4896507334449,
+        -873.5163623090913,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9124941433958372,
+        0.409089767982893
+      ]
+    },
+    "info": {
+      "geodesic_distance": 36,
+      "euclidean_distance": 23.8405
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_police_01_2",
+    "pose": [
+      [
+        1041.5999755859375,
+        -881.7999877929688,
+        0.35571685433387756
+      ]
+    ],
+    "size": "small(1.75*0.75=1.31 squares)",
+    "description": "Organic upright form, dark blue police uniform with matching hat, badge and utility belt visible, likely engaged in motion such as walking or running.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "11",
+    "start_pose": {
+      "start_position": [
+        1003.0624162150796,
+        -812.1170250038745,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9342406032166313,
+        -0.35664337271485225
+      ]
+    },
+    "info": {
+      "geodesic_distance": 55,
+      "euclidean_distance": 42.0883
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Hydrant",
+    "object_name": "SM_Hydrant_35",
+    "pose": [
+      [
+        1010.8999633789062,
+        -852.5,
+        1.899999976158142
+      ]
+    ],
+    "size": "small(0.75*0.5=0.38 squares)",
+    "description": "Geometric cylindrical form, red metal body with two blue side nozzles and domed top, mounted on ground level, used for emergency water access by firefighters.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "14",
+    "start_pose": {
+      "start_position": [
+        1326.7625556776075,
+        -1020.0230523006716,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.2648346873229854,
+        0.9642938288667705
+      ]
+    },
+    "info": {
+      "geodesic_distance": 92,
+      "euclidean_distance": 61.2325
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Seesaw",
+    "object_name": "SM_Seesaw01_90",
+    "pose": [
+      [
+        1282.0,
+        -979.199951171875,
+        1.899999976158142
+      ]
+    ],
+    "size": "mid(3.25*2=6.5 squares)",
+    "description": "Rectangular metal frame with two opposing seats, blue support arms and curved base, intended for playground use or balancing play.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "16",
+    "start_pose": {
+      "start_position": [
+        1250.5156346994656,
+        -1037.085694804847,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6709664027349889,
+        0.7414877520235036
+      ]
+    },
+    "info": {
+      "geodesic_distance": 80,
+      "euclidean_distance": 54.5646
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "PlaygroundSet",
+    "object_name": "SM_Set02_41",
+    "pose": [
+      [
+        1273.699951171875,
+        -988.5,
+        1.899999976158142
+      ]
+    ],
+    "size": "big(4.5*3.5=15.75 squares)",
+    "description": "Multi-level wooden play structure with enclosed spiral slide, rope climbing net, and elevated platforms, yellow and red color scheme, intended for children's recreational use.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "18",
+    "start_pose": {
+      "start_position": [
+        1125.535463575144,
+        -996.2379074233296,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.4513050848850509,
+        0.8923697217840243
+      ]
+    },
+    "info": {
+      "geodesic_distance": 45,
+      "euclidean_distance": 34.7748
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Wagon",
+    "object_name": "SM_Cart_v1_low_11273",
+    "pose": [
+      [
+        1092.199951171875,
+        -991.8999633789062,
+        1.899999976158142
+      ]
+    ],
+    "size": "mid(3.75*1.5=5.63 squares)",
+    "description": "Wooden cart with large spoked wheels and extended handle, rustic appearance, intended for carrying goods or farm use.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "19",
+    "start_pose": {
+      "start_position": [
+        1071.4239235835987,
+        -1001.7593531062863,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.1432658935318236,
+        0.9896842343649455
+      ]
+    },
+    "info": {
+      "geodesic_distance": 61,
+      "euclidean_distance": 48.6368
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Barrels",
+    "object_name": "SM_Set3_11291",
+    "pose": [
+      [
+        1119.0,
+        -996.2999877929688,
+        1.5
+      ]
+    ],
+    "size": "small(1*1=1 squares)",
+    "description": "Geometric cylindrical cluster, rusty metal texture with dents and weathering, filled with various scrap materials and pipes, likely used for industrial storage or refuse.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "21",
+    "start_pose": {
+      "start_position": [
+        1144.8416525744315,
+        -994.9419090788388,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9999351766679078,
+        0.011386064382399535
+      ]
+    },
+    "info": {
+      "geodesic_distance": 37,
+      "euclidean_distance": 28.0683
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Barrels",
+    "object_name": "SM_Set8_11285",
+    "pose": [
+      [
+        1118.5,
+        -999.5999755859375,
+        1.5
+      ]
+    ],
+    "size": "small(1.25*1=1.25 squares)",
+    "description": "Geometric cylindrical and irregular shapes, rusted metal with cardboard debris at the base, dented drum and loose scattered trash, used for waste disposal.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "29",
+    "start_pose": {
+      "start_position": [
+        438.5786538502425,
+        -1066.7373072515495,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6871283522758006,
+        0.7265360469369315
+      ]
+    },
+    "info": {
+      "geodesic_distance": 50,
+      "euclidean_distance": 32.7787
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Table",
+    "object_name": "SM_prop_dining_table_a_688",
+    "pose": [
+      [
+        456.5,
+        -1092.699951171875,
+        1.899999976158142
+      ]
+    ],
+    "size": "small(1.25*1.25=1.56 squares)",
+    "description": "Geometric square form, glossy red surface with curved metal legs, uniform tabletop with no additional features, intended for general use or dining.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "40",
+    "start_pose": {
+      "start_position": [
+        4.95683864311362,
+        -113.29438966852094,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.5096519352918186,
+        -0.8603806743839054
+      ]
+    },
+    "info": {
+      "geodesic_distance": 40,
+      "euclidean_distance": 25.7812
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "ClassicCar",
+    "object_name": "SK_NYCCar03_Rigged_12",
+    "pose": [
+      [
+        -6.799999713897705,
+        -134.39999389648438,
+        2.0
+      ]
+    ],
+    "size": "mid(4.5*2=9 squares)",
+    "description": "Vintage sedan with rounded fenders and rusted red exterior, chrome accents and deteriorated finish, intended for classic vehicle restoration or display.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -87.80667678662333,
+        190.85420250629508,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8987662315141853,
+        -0.4384281709582424
+      ]
+    },
+    "info": {
+      "geodesic_distance": 64,
+      "euclidean_distance": 50.3516
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Human",
+    "object_name": "BP_fe_clerk_02_2",
+    "pose": [
+      [
+        -78.0999984741211,
+        239.79998779296875,
+        -0.26432228088378906
+      ]
+    ],
+    "size": "small(1.0*0.75=0.75 squares)",
+    "description": "Organic upright form, orange short-sleeve shirt with blue jeans and dark shoes, holding a small dark bag, casual modern appearance for daily tasks.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        -85.92441133364356,
+        267.1933700303852,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9982092238585568,
+        0.05981927284494153
+      ]
+    },
+    "info": {
+      "geodesic_distance": 43,
+      "euclidean_distance": 31.0103
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_sport_casual_01_3",
+    "pose": [
+      [
+        -76.9000015258789,
+        238.29998779296875,
+        -0.26432228088378906
+      ]
+    ],
+    "size": "small(1.0*0.5=0.5 squares)",
+    "description": "Organic upright form, brown long-sleeve shirt with blue jeans, bald head with distinct facial features, standard character model suitable for simulation or NPC use.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "7",
+    "start_pose": {
+      "start_position": [
+        -17.620783569458908,
+        118.36834736812975,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9933487497368864,
+        0.11514452395213878
+      ]
+    },
+    "info": {
+      "geodesic_distance": 58,
+      "euclidean_distance": 39.0371
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "PicnicBlanket",
+    "object_name": "SM_TableCloth_01a_498",
+    "pose": [
+      [
+        -37.39999771118164,
+        151.1999969482422,
+        0.3999999761581421
+      ]
+    ],
+    "size": "mid(2.25*2.25=5.06 squares)",
+    "description": "Rectangular fabric, red and white checkered pattern, thin and spread flat, suitable for outdoor seating or dining.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "12",
+    "start_pose": {
+      "start_position": [
+        -167.18115998516151,
+        138.84129738104645,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3315000275693031,
+        -0.9434552091761174
+      ]
+    },
+    "info": {
+      "geodesic_distance": 70,
+      "euclidean_distance": 48.8857
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Pig",
+    "object_name": "domestic_pig_anim_idleA_anim_20",
+    "pose": [
+      [
+        -205.89999389648438,
+        109.0,
+        -6.599999904632568
+      ]
+    ],
+    "size": "small(2.0*1.0=2.0 squares)",
+    "description": "Organic quadruped form, pale pink skin with rounded body, short legs and snout with visible ears and tail, suitable for livestock or farming.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "13",
+    "start_pose": {
+      "start_position": [
+        -155.42885924405044,
+        114.36019173491883,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9046856150608923,
+        -0.4260797318600066
+      ]
+    },
+    "info": {
+      "geodesic_distance": 47,
+      "euclidean_distance": 38.9964
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Pig",
+    "object_name": "Longhorn_cattle_Eat_anim_11",
+    "pose": [
+      [
+        -194.0,
+        120.0999984741211,
+        -6.799999713897705
+      ]
+    ],
+    "size": "small(2.0*1.0=2.0 squares)",
+    "description": "Organic quadruped form, pale pink skin with rounded body, short legs and snout with visible ears and tail, suitable for livestock or farming.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "16",
+    "start_pose": {
+      "start_position": [
+        -144.11967285249526,
+        -33.7407085013384,
+        -13.799999713897705
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9999087380476661,
+        0.013509832564611923
+      ]
+    },
+    "info": {
+      "geodesic_distance": 51,
+      "euclidean_distance": 34.6589
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Table",
+    "object_name": "Covered_Table_309",
+    "pose": [
+      [
+        -173.09999084472656,
+        -15.399999618530273,
+        -5.799999713897705
+      ]
+    ],
+    "size": "mid(2.0*0.75=1.5 squares)",
+    "description": "Rectangular structure with green metal legs, blue and white checkered tablecloth, suitable for dining or outdoor use.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "17",
+    "start_pose": {
+      "start_position": [
+        -220.95601990634023,
+        -39.191195645730815,
+        -15.299999713897705
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.89358341037794,
+        -0.4488971916790416
+      ]
+    },
+    "info": {
+      "geodesic_distance": 67,
+      "euclidean_distance": 46.7123
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "CardboardBoxes",
+    "object_name": "Kasane_PaperBoxes_356",
+    "pose": [
+      [
+        -178.8000030517578,
+        -19.69999885559082,
+        -7.299999713897705
+      ]
+    ],
+    "size": "mid(3.0*2.0=6.0 squares)",
+    "description": "Irregular cluster of stacked cardboard boxes, worn and slightly damaged, suitable for storage or packing.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "18",
+    "start_pose": {
+      "start_position": [
+        -151.07533647568442,
+        -57.40841271872484,
+        -18.09999942779541
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8362077569993294,
+        0.5484127889957987
+      ]
+    },
+    "info": {
+      "geodesic_distance": 84,
+      "euclidean_distance": 56.9932
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Awning",
+    "object_name": "SM_Awning01_325",
+    "pose": [
+      [
+        -184.1999969482422,
+        -11.300000190734863,
+        -10.09999942779541
+      ]
+    ],
+    "size": "big(3.0*3.5=10.5 squares)",
+    "description": "Curved rectangular fabric canopy, light pink with scalloped edge, mounted on a metal frame, used for shade or shelter.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "19",
+    "start_pose": {
+      "start_position": [
+        -200.8543716187889,
+        -29.435240392155336,
+        -12.699999809265137
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7250014038885133,
+        0.6887473879149631
+      ]
+    },
+    "info": {
+      "geodesic_distance": 55,
+      "euclidean_distance": 38.2823
+    },
+    "map_name": "CabinLake_test",
+    "true_name": "Awning",
+    "object_name": "SM_Awning07_435",
+    "pose": [
+      [
+        -186.5,
+        5.699999809265137,
+        -4.699999809265137
+      ]
+    ],
+    "size": "mid(2.0*4.0=8.0 squares)",
+    "description": "Curved fabric canopy, beige with black frame, suspended between two metal stands, used for providing shade or shelter.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "CabinLake.json",
+    "scene_key": "CabinLake"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        -5.8125895772811305,
+        -70.77966941387956,
+        -7.07999312877655
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6063662276770804,
+        0.7951855116466013
+      ]
+    },
+    "info": {
+      "geodesic_distance": 66,
+      "euclidean_distance": 43.6955
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Dog",
+    "object_name": "beagle_idleA_anim2_29",
+    "pose": [
+      [
+        21.19999885559082,
+        -36.79999923706055,
+        0.9200068712234497
+      ]
+    ],
+    "size": "small(1.25*0.5=0.63 squares)",
+    "description": "Organic quadrupedal form, short tan and white fur with dark accents, upright ears and curled tail, resembles a small companion breed.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "17",
+    "start_pose": {
+      "start_position": [
+        134.8581099569396,
+        43.17467358040654,
+        -18.979992866516113
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.736243757168112,
+        0.6767164325114192
+      ]
+    },
+    "info": {
+      "geodesic_distance": 42,
+      "euclidean_distance": 31.6759
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Dog",
+    "object_name": "celtic_wolfhound_idleSit_anim_29",
+    "pose": [
+      [
+        104.5999984741211,
+        51.099998474121094,
+        -10.979992866516113
+      ]
+    ],
+    "size": "small(2.25*1=2.25 squares)",
+    "description": "Organic quadruped form, short black fur with white markings, green collar around neck, domesticated canine in seated position.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "18",
+    "start_pose": {
+      "start_position": [
+        55.66541459355905,
+        -4.550461116350903,
+        -6.979993104934692
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7014894730864311,
+        -0.7126798153090357
+      ]
+    },
+    "info": {
+      "geodesic_distance": 54,
+      "euclidean_distance": 38.9408
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Sheep",
+    "object_name": "Domestic_sheep_Idle_anim_35",
+    "pose": [
+      [
+        20.100000381469727,
+        -19.600000381469727,
+        1.0200068950653076
+      ]
+    ],
+    "size": "small(2.5*1=2.5 squares)",
+    "description": "Organic quadruped form, light gray woolly texture, rounded snout with short ears, domesticated livestock raised for wool and meat.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "19",
+    "start_pose": {
+      "start_position": [
+        -272.27225780940597,
+        -63.5148159902904,
+        -7.379993140697479
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7595651063260221,
+        0.6504312794230753
+      ]
+    },
+    "info": {
+      "geodesic_distance": 31,
+      "euclidean_distance": 22.9224
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Dog",
+    "object_name": "hellenic_hound_idleSit_anim_5",
+    "pose": [
+      [
+        -268.8999938964844,
+        -41.39999771118164,
+        0.6200068593025208
+      ]
+    ],
+    "size": "small(1.5*0.75=1.13 squares)",
+    "description": "Organic quadruped form, black and white fur with tan accents, erect ears and long tail, companion animal likely used for herding or guarding.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "22",
+    "start_pose": {
+      "start_position": [
+        29.006206096930548,
+        -22.1317129350889,
+        -6.779993176460266
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9555347393242168,
+        -0.29487855456882744
+      ]
+    },
+    "info": {
+      "geodesic_distance": 39,
+      "euclidean_distance": 28.9697
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Dog",
+    "object_name": "pug_eat_anim_32",
+    "pose": [
+      [
+        56.599998474121094,
+        -29.399999618530273,
+        1.2200068235397339
+      ]
+    ],
+    "size": "small(1.25*1=1.25 squares)",
+    "description": "Organic quadruped form, light tan fur with short coat, pointed ears and curled tail, companion animal commonly used for guarding or companionship.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "30",
+    "start_pose": {
+      "start_position": [
+        -68.84059707785013,
+        -75.33243684314743,
+        -6.779993176460266
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3512076338399603,
+        0.9362976011570981
+      ]
+    },
+    "info": {
+      "geodesic_distance": 26,
+      "euclidean_distance": 15.5023
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Excavator",
+    "object_name": "SM_ExcavatorTracks_171",
+    "pose": [
+      [
+        -57.599998474121094,
+        -65.9000015258789,
+        1.2200068235397339
+      ]
+    ],
+    "size": "big(4.0*4.0=16.0 squares)",
+    "description": "Long tracked base with articulated arm and large bucket, yellow and black exterior with \"Steel\" branding, heavy-duty construction equipment designed for digging and earthmoving.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "32",
+    "start_pose": {
+      "start_position": [
+        -230.5401240121906,
+        -10.79619177958044,
+        -7.379993140697479
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9763022424275711,
+        0.21641148636543306
+      ]
+    },
+    "info": {
+      "geodesic_distance": 78,
+      "euclidean_distance": 53.4454
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "PicnicTable",
+    "object_name": "SM_PicnicTable_01_11",
+    "pose": [
+      [
+        -272.1999816894531,
+        -43.89999771118164,
+        0.6200068593025208
+      ]
+    ],
+    "size": "mid(2.25*2.0=4.5 squares)",
+    "description": "Rectangular wooden structure, natural brown wood texture, attached bench seats, suitable for outdoor seating and dining.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "38",
+    "start_pose": {
+      "start_position": [
+        -67.43466991078992,
+        -70.94069508127376,
+        -7.979993134737015
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9724524185846,
+        0.23310146629517783
+      ]
+    },
+    "info": {
+      "geodesic_distance": 29,
+      "euclidean_distance": 19.7893
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Shovel",
+    "object_name": "SM_Shovel01_192",
+    "pose": [
+      [
+        -49.20000076293945,
+        -65.0999984741211,
+        0.02000686526298523
+      ]
+    ],
+    "size": "small(0.5*0.25=0.13 squares)",
+    "description": "Long handle with a flat, metal blade, dark metallic finish, used for digging or lifting materials.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "55",
+    "start_pose": {
+      "start_position": [
+        -96.08868612416035,
+        10.848193253706043,
+        -6.779993176460266
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6123287764944688,
+        -0.7906032313852421
+      ]
+    },
+    "info": {
+      "geodesic_distance": 64,
+      "euclidean_distance": 43.1446
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Truck",
+    "object_name": "SK_NYC_PickUptruck_14",
+    "pose": [
+      [
+        -125.19999694824219,
+        -20.600000381469727,
+        1.2200068235397339
+      ]
+    ],
+    "size": "mid(2.0*4.75=9.5 squares)",
+    "description": "Classic pickup truck with a curved body, matte yellow exterior with wooden bed slats, single-cabin design, intended for cargo transport.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        29.085947217572624,
+        47.120360645937794,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7153598886602782,
+        0.6987562019016034
+      ]
+    },
+    "info": {
+      "geodesic_distance": 70,
+      "euclidean_distance": 50.0632
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Cloth",
+    "object_name": "Cloth_04_5",
+    "pose": [
+      [
+        8.170903205871582,
+        2.0933704376220703,
+        -0.5616179704666138
+      ]
+    ],
+    "size": " small(1.25*0.25=0.31 squares)",
+    "description": " Organic folded shape, muted red fabric with soft and slightly wrinkled texture, rectangular form suggesting use as cleaning or covering textile.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "3",
+    "start_pose": {
+      "start_position": [
+        13.16983686536873,
+        12.98914446761701,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9126976768563221,
+        0.40863547406101774
+      ]
+    },
+    "info": {
+      "geodesic_distance": 18,
+      "euclidean_distance": 13.424
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Cloth",
+    "object_name": "Cloth_Big_01_17",
+    "pose": [
+      [
+        9.207463264465332,
+        2.122163772583008,
+        -0.18730443716049194
+      ]
+    ],
+    "size": " small(1*0.75=0.75 squares)",
+    "description": " Organic draped shape, light blue fabric with wave-like folds and semi-gloss texture, hung vertically suggesting use as a curtain, backdrop, or partition.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "10",
+    "start_pose": {
+      "start_position": [
+        16.829308499640177,
+        29.544240320995087,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.024306840953040552,
+        -0.9997045450946412
+      ]
+    },
+    "info": {
+      "geodesic_distance": 40,
+      "euclidean_distance": 32.3883
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Locker",
+    "object_name": "Utility_Box_1a_53",
+    "pose": [
+      [
+        19.83220672607422,
+        -1.9952846765518188,
+        -0.27368447184562683
+      ]
+    ],
+    "size": " small(1*0.75=0.75 squares)",
+    "description": " Geometric rectangular prism, matte dark gray metal, surface features symmetrical vent patterns and latch fixtures, designed for secure vertical storage.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "12",
+    "start_pose": {
+      "start_position": [
+        16.672154924860294,
+        13.179219741892524,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.4170029985886853,
+        -0.9089051101011838
+      ]
+    },
+    "info": {
+      "geodesic_distance": 23,
+      "euclidean_distance": 16.2791
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Mailbox",
+    "object_name": "Mailbox_Pole_59",
+    "pose": [
+      [
+        20.321693420410156,
+        -1.1890709400177002,
+        -0.27368447184562683
+      ]
+    ],
+    "size": " small(0.75*0.25=0.19 squares)",
+    "description": " Geometric cylindrical box on a vertical post, metallic blue surface with front-opening door, slender support pole indicating use for postal deliveries.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "13",
+    "start_pose": {
+      "start_position": [
+        94.88192773049734,
+        -100.58213623073466,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9653888393800127,
+        -0.26081485540611343
+      ]
+    },
+    "info": {
+      "geodesic_distance": 81,
+      "euclidean_distance": 56.9453
+    },
+    "map_name": "DownTown_test",
+    "true_name": " FoldedTentSet",
+    "object_name": "SM_Folded_Tent_Set1_65",
+    "pose": [
+      [
+        63.626888275146484,
+        -53.017093658447266,
+        -5.1397600173950195
+      ]
+    ],
+    "size": " small(1*1=1 squares)",
+    "description": " Geometric cylindrical bundle, dusty brown fabric with visible creases, bound tightly with straps, indicative of compacted outdoor shelter storage.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "14",
+    "start_pose": {
+      "start_position": [
+        80.2983822429606,
+        -26.592207859634968,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9629207789767122,
+        -0.2697843090598147
+      ]
+    },
+    "info": {
+      "geodesic_distance": 42,
+      "euclidean_distance": 30.8319
+    },
+    "map_name": "DownTown_test",
+    "true_name": " FabricSack",
+    "object_name": "SM_Fabric_Sack3_68",
+    "pose": [
+      [
+        63.4829216003418,
+        -52.3548469543457,
+        -4.9670000076293945
+      ]
+    ],
+    "size": " small(0.75*0.75=0.75 squares)",
+    "description": " Organic lumpy form, light beige cloth texture, drawstring closure at the top, used for storing or transporting loose materials.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "15",
+    "start_pose": {
+      "start_position": [
+        113.2860318414252,
+        -18.55522198617443,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9787339727851817,
+        0.20513364062516684
+      ]
+    },
+    "info": {
+      "geodesic_distance": 82,
+      "euclidean_distance": 59.6078
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Crates",
+    "object_name": "SM_Wooden_Box_Large_Set2_74",
+    "pose": [
+      [
+        64.28913879394531,
+        -52.441226959228516,
+        -4.9670000076293945
+      ]
+    ],
+    "size": " mid(2.5*2.5=6.25 squares)",
+    "description": " Geometric box shapes, weathered wooden texture with metal reinforcements, visible rope handles and clasps, typically used for storage or transport.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "16",
+    "start_pose": {
+      "start_position": [
+        31.532753569453945,
+        71.96686116920941,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9659519821329745,
+        0.25872141042708036
+      ]
+    },
+    "info": {
+      "geodesic_distance": 61,
+      "euclidean_distance": 48.3912
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Canopy",
+    "object_name": "Shelf_01_B_77",
+    "pose": [
+      [
+        21.271875381469727,
+        25.156841278076172,
+        -0.27368447184562683
+      ]
+    ],
+    "size": " mid(2.25*1.5=3.375 squares)",
+    "description": " Geometric rectangular frame, rusty red fabric top with tension wrinkles, supported by slender metallic blue legs, provides overhead shelter function.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "20",
+    "start_pose": {
+      "start_position": [
+        24.230565085431678,
+        40.552313762132755,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.822622549873878,
+        -0.5685878476005262
+      ]
+    },
+    "info": {
+      "geodesic_distance": 57,
+      "euclidean_distance": 38.9834
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Chair",
+    "object_name": "SM_Building_Int_Reqular_Chair_89",
+    "pose": [
+      [
+        1.3468797206878662,
+        9.723607063293457,
+        -0.24489113688468933
+      ]
+    ],
+    "size": " small(0.75*0.75=0.5625 squares)",
+    "description": " Geometric vertical-back design, dark brown wood texture, spindled backrest and four tapered legs, intended for individual seating support.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        308.85435512259704,
+        848.1446835797326,
+        -6.800000071525574
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7876417362152367,
+        -0.6161335045035674
+      ]
+    },
+    "info": {
+      "geodesic_distance": 55,
+      "euclidean_distance": 36.8215
+    },
+    "map_name": "NYC_test",
+    "true_name": "Dog",
+    "object_name": "beagle_idleB_anim_23",
+    "pose": [
+      [
+        334.79998779296875,
+        822.5,
+        1.1999999284744263
+      ]
+    ],
+    "size": "small(1.25*0.5=0.63 squares)",
+    "description": "Organic quadruped form, short brown and white fur with a dark tail tip, visible snout and upright ears, companion animal commonly used for domestic companionship.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "10",
+    "start_pose": {
+      "start_position": [
+        480.49703458458805,
+        73.46984763381232,
+        -7.779487311840057
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7944829243737466,
+        -0.607286491598932
+      ]
+    },
+    "info": {
+      "geodesic_distance": 50,
+      "euclidean_distance": 33.1512
+    },
+    "map_name": "NYC_test",
+    "true_name": "Human",
+    "object_name": "BP_fe_sport_02_a2",
+    "pose": [
+      [
+        459.0999755859375,
+        98.29261779785156,
+        0.22051268815994263
+      ]
+    ],
+    "size": "small(1.25*1.25=1.56 squares)",
+    "description": "Organic upright form, dark blue shirt with light gray pants and tan cap, clean modern outfit with simple tones, represents a casually dressed civilian figure.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "11",
+    "start_pose": {
+      "start_position": [
+        431.1134984579161,
+        972.213783222412,
+        -7.7644928097724915
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.751842035877801,
+        -0.659343274089547
+      ]
+    },
+    "info": {
+      "geodesic_distance": 46,
+      "euclidean_distance": 37.7268
+    },
+    "map_name": "NYC_test",
+    "true_name": "Human",
+    "object_name": "BP_fe_sport_02_a3",
+    "pose": [
+      [
+        394.1000061035156,
+        966.8926391601562,
+        0.23550719022750854
+      ]
+    ],
+    "size": "small(1.25*1.25=1.56 squares)",
+    "description": "Organic upright form, dark blue shirt with light gray pants and tan cap, clean modern outfit with simple tones, represents a casually dressed civilian figure.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "67",
+    "start_pose": {
+      "start_position": [
+        302.82671282102496,
+        444.2121667294242,
+        -7.5
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.12884885855043365,
+        -0.991664243406129
+      ]
+    },
+    "info": {
+      "geodesic_distance": 37,
+      "euclidean_distance": 23.6669
+    },
+    "map_name": "NYC_test",
+    "true_name": "Seesaw",
+    "object_name": "SM_Seesaw01_56",
+    "pose": [
+      [
+        286.5,
+        460.5999755859375,
+        0.5
+      ]
+    ],
+    "size": "mid(3.75*1.75=6.56 squares)",
+    "description": "Dual-seat playground apparatus, blue and black metal frame with curved supports and handles, balanced structure allowing tilting motion, intended for recreational play.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "101",
+    "start_pose": {
+      "start_position": [
+        -35.24655790516161,
+        546.8073542769151,
+        -6.800000071525574
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9776043033289081,
+        -0.21045148161227112
+      ]
+    },
+    "info": {
+      "geodesic_distance": 90,
+      "euclidean_distance": 60.5012
+    },
+    "map_name": "NYC_test",
+    "true_name": "Motorcycle",
+    "object_name": "SK_Motorbike_Rigged5",
+    "pose": [
+      [
+        10.399999618530273,
+        586.2000122070312,
+        1.1999999284744263
+      ]
+    ],
+    "size": "small(2.0*0.75=1.5 squares)",
+    "description": "Vintage-style bike, olive green body with black seat and chrome accents, wide handlebars and spoked wheels, designed for single-rider transport.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "102",
+    "start_pose": {
+      "start_position": [
+        505.811642066222,
+        596.4259832519862,
+        -6.800000071525574
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6533417569266041,
+        -0.7570631074461746
+      ]
+    },
+    "info": {
+      "geodesic_distance": 68,
+      "euclidean_distance": 47.0481
+    },
+    "map_name": "NYC_test",
+    "true_name": "Motorcycle",
+    "object_name": "SK_Motorbike_Rigged6",
+    "pose": [
+      [
+        482.6999816894531,
+        637.0999755859375,
+        1.1999999284744263
+      ]
+    ],
+    "size": "small(2.0*0.75=1.5 squares)",
+    "description": "Vintage-style bike, olive green body with black seat and chrome accents, wide handlebars and spoked wheels, designed for single-rider transport.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "104",
+    "start_pose": {
+      "start_position": [
+        424.7647638127042,
+        984.1669409593105,
+        -6.800000071525574
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8136015300641604,
+        -0.581422867005811
+      ]
+    },
+    "info": {
+      "geodesic_distance": 40,
+      "euclidean_distance": 26.802
+    },
+    "map_name": "NYC_test",
+    "true_name": "Motorcycle",
+    "object_name": "SK_Motorbike_Rigged8",
+    "pose": [
+      [
+        406.5,
+        965.199951171875,
+        1.1999999284744263
+      ]
+    ],
+    "size": "small(2.0*0.75=1.5 squares)",
+    "description": "Vintage-style bike, olive green body with black seat and chrome accents, wide handlebars and spoked wheels, designed for single-rider transport.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "106",
+    "start_pose": {
+      "start_position": [
+        299.7348277063996,
+        670.129129635089,
+        -6.600000023841858
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.09195488881626043,
+        0.9957631738635393
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 50.9218
+    },
+    "map_name": "NYC_test",
+    "true_name": "Car",
+    "object_name": "SK_NYC_Car3",
+    "pose": [
+      [
+        345.3999938964844,
+        692.0999755859375,
+        1.399999976158142
+      ]
+    ],
+    "size": "mid(2.0*4.15=8.3 squares)",
+    "description": "Classic convertible car, beige exterior with rounded fenders and wire-spoke wheels, two-seater with rear-mounted spare tire, designed for casual and recreational driving.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "140",
+    "start_pose": {
+      "start_position": [
+        156.2168126716022,
+        660.990548932176,
+        -7.9000000059604645
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.4201239938972051,
+        0.9074667099964941
+      ]
+    },
+    "info": {
+      "geodesic_distance": 23,
+      "euclidean_distance": 16.3863
+    },
+    "map_name": "NYC_test",
+    "true_name": "Chair",
+    "object_name": "SM_prop_dining_chair_a_505",
+    "pose": [
+      [
+        171.09999084472656,
+        656.2999877929688,
+        0.09999999403953552
+      ]
+    ],
+    "size": "small(0.75*0.75=0.56 squares)",
+    "description": "Geometric upright form, solid red plastic or metal surface, simple backrest and four straight legs, intended for single-person seating.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "NYC.json",
+    "scene_key": "NYC"
+  },
+  {
+    "episode_id": "5",
+    "start_pose": {
+      "start_position": [
+        -207.77632399802658,
+        -279.4906426683242,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9978682962757853,
+        0.06525996696031645
+      ]
+    },
+    "info": {
+      "geodesic_distance": 33,
+      "euclidean_distance": 20.798
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Blanket",
+    "object_name": "SM_PicnicCloth",
+    "pose": [
+      [
+        -221.69183349609375,
+        -292.7161865234375,
+        1.0
+      ]
+    ],
+    "size": "small(1.5*1=1.5 squares)",
+    "description": "Geometric rectangular form with natural folds, red and white checkered textile surface, soft fabric texture with slight wrinkling, likely used for seating or covering on ground surfaces.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "11",
+    "start_pose": {
+      "start_position": [
+        -301.3916161593877,
+        73.11978889522271,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9534774126408683,
+        -0.30146446487716494
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 48.2078
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Rhinoceros",
+    "object_name": "rhino_idleA_anim_8",
+    "pose": [
+      [
+        -258.8999938964844,
+        94.4000015258789,
+        1.100000023841858
+      ]
+    ],
+    "size": "mid(3.75*1.5=5.625 squares)",
+    "description": "Organic quadrupedal form, grayish-brown rough textured skin with distinct folds, two prominent facial horns and stocky build, visual traits indicate a large herbivorous mammal likely representing the species Diceros bicornis.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "13",
+    "start_pose": {
+      "start_position": [
+        -246.7050158042518,
+        -29.91000533885194,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7028429813530884,
+        0.7113450242763367
+      ]
+    },
+    "info": {
+      "geodesic_distance": 91,
+      "euclidean_distance": 59.5435
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_waiter_02_2",
+    "pose": [
+      [
+        -204.39999389648438,
+        11.399999618530273,
+        0.014047445729374886
+      ]
+    ],
+    "size": "small(1*0.75=0.75 squares)",
+    "description": "Organic bipedal form, fully black attire with fitted clothing texture, bald head and upright posture, visual indicators suggest purposeful movement or patrolling function.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "14",
+    "start_pose": {
+      "start_position": [
+        -144.8695199942172,
+        15.818248054313774,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.5532929226767138,
+        0.8329867596281828
+      ]
+    },
+    "info": {
+      "geodesic_distance": 51,
+      "euclidean_distance": 32.852
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_construction_worker_01_c_2",
+    "pose": [
+      [
+        -170.59999084472656,
+        35.0,
+        0.018497619777917862
+      ]
+    ],
+    "size": "small(1*0.75=0.75 squares)",
+    "description": "Organic bipedal form, yellow and orange high-visibility clothing with dark boots and gloves, smooth skin and fabric textures, posture and attire suggest active motion or construction-related function.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "15",
+    "start_pose": {
+      "start_position": [
+        -245.7890763526595,
+        63.02510348423732,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9833481820716837,
+        -0.18173154051048696
+      ]
+    },
+    "info": {
+      "geodesic_distance": 86,
+      "euclidean_distance": 59.7078
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Signboard",
+    "object_name": "SM_MERGED_SM_signs_sign_inkasipas_38",
+    "pose": [
+      [
+        -198.09999084472656,
+        27.099998474121094,
+        -6.599999904632568
+      ]
+    ],
+    "size": "mid(2.5*0.5=1.25 squares)",
+    "description": "Geometric arched-top form, matte black surface with gold outline and printed text \"INKA'S\", thick vertical profile, used for business advertisement or identification.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "20",
+    "start_pose": {
+      "start_position": [
+        -150.4117196215302,
+        53.92867891765302,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.5661399122062184,
+        0.8243091651844806
+      ]
+    },
+    "info": {
+      "geodesic_distance": 39,
+      "euclidean_distance": 28.4248
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Sheetmetal",
+    "object_name": "SM_Sheetmetal_136",
+    "pose": [
+      [
+        -176.59999084472656,
+        46.20000076293945,
+        0.8999999761581421
+      ]
+    ],
+    "size": "small(1*0.75=0.75 squares)",
+    "description": "Geometric flat rectangular shape, rust-colored corrugated metal surface, thin and uniform profile with linear ridges, consistent with industrial paneling or structural sheeting.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "21",
+    "start_pose": {
+      "start_position": [
+        -253.3375152460341,
+        81.60760947159497,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.15179895574030172,
+        0.9884113905839784
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 47.4165
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Trashcan",
+    "object_name": "SM_Dustbin_04_145",
+    "pose": [
+      [
+        -226.0,
+        43.70000076293945,
+        1.0
+      ]
+    ],
+    "size": "small(0.75*0.75=0.56 squares)",
+    "description": "Geometric cylindrical form, dark metallic surface with vertical ridges, slightly tapered profile, intended for waste disposal.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "23",
+    "start_pose": {
+      "start_position": [
+        -217.15414126317296,
+        55.5310801129814,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.938168578359726,
+        -0.34617873790643283
+      ]
+    },
+    "info": {
+      "geodesic_distance": 45,
+      "euclidean_distance": 34.0961
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "PickupTruck",
+    "object_name": "SK_NYC_PickUptruck_2",
+    "pose": [
+      [
+        -223.5,
+        23.0,
+        1.0
+      ]
+    ],
+    "size": "mid(3.75*1.5=5.63 squares)",
+    "description": "Geometric rectangular form, matte mustard yellow metal body, open rear cargo bed and classic rounded fenders, vintage utility design typical of mid-20th century transport trucks.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "44",
+    "start_pose": {
+      "start_position": [
+        -189.67388903022854,
+        20.75308393284468,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9475466204136215,
+        -0.3196175873488884
+      ]
+    },
+    "info": {
+      "geodesic_distance": 18,
+      "euclidean_distance": 12.2101
+    },
+    "map_name": "ModularNeighborhood_test",
+    "true_name": "Barrier",
+    "object_name": "SM_RoadBarriers_03_11",
+    "pose": [
+      [
+        -180.6999969482422,
+        21.899999618530273,
+        1.1999999284744263
+      ]
+    ],
+    "size": "small(1*0.5=0.5 squares)",
+    "description": "Geometric trapezoidal form, solid gray concrete texture with diagonal yellow-red hazard stripes, used for traffic control or restricted access demarcation.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Neighborhood.json",
+    "scene_key": "Neighborhood"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -72.63980699144135,
+        -3.616486864093453,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.06904596688603153,
+        -0.9976134794883101
+      ]
+    },
+    "info": {
+      "geodesic_distance": 113,
+      "euclidean_distance": 50.2407
+    },
+    "map_name": "Slum_test",
+    "true_name": " WoodenBox",
+    "object_name": "SM_Wooden_Box_Large_Set1_2",
+    "pose": [
+      [
+        -30.93767547607422,
+        22.27068328857422,
+        3.7200019359588623
+      ]
+    ],
+    "size": " mid(2.5*2.5=6.25 squares)",
+    "description": " Geometric cubic stack, weathered light brown wood with blue metal corner reinforcements, four stacked crates with rope handles, used for storage or transport of goods.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "11",
+    "start_pose": {
+      "start_position": [
+        -10.503644299583456,
+        3.083703318030743,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8595000524278636,
+        0.5111356570192493
+      ]
+    },
+    "info": {
+      "geodesic_distance": 63,
+      "euclidean_distance": 40.6223
+    },
+    "map_name": "Slum_test",
+    "true_name": " ConcreteHedge",
+    "object_name": "SM_ConcreteHedge2_21",
+    "pose": [
+      [
+        -45.53767395019531,
+        19.470684051513672,
+        5.420002460479736
+      ]
+    ],
+    "size": " small(0.25*5.0=1.25 squares)",
+    "description": " Rectangular, textured concrete surface with hexagonal cutouts along the top edge, grey rough surface, used for construction or crowd control.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "15",
+    "start_pose": {
+      "start_position": [
+        32.54105973731052,
+        -52.35797531145226,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.953974469041027,
+        0.29988783306078054
+      ]
+    },
+    "info": {
+      "geodesic_distance": 70,
+      "euclidean_distance": 51.217
+    },
+    "map_name": "Slum_test",
+    "true_name": " FabricSack",
+    "object_name": "SM_Fabric_Sack_Set3_32",
+    "pose": [
+      [
+        -15.937675476074219,
+        -66.32931518554688,
+        1.8200020790100098
+      ]
+    ],
+    "size": " small(1*1=1 square)",
+    "description": " Irregular, beige fabric with a wrinkled texture, grouped in a cluster, likely used for carrying or storing items.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "16",
+    "start_pose": {
+      "start_position": [
+        28.896458820207663,
+        23.285886170954214,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7586056680355455,
+        0.6515500291031715
+      ]
+    },
+    "info": {
+      "geodesic_distance": 70,
+      "euclidean_distance": 48.0522
+    },
+    "map_name": "Slum_test",
+    "true_name": " HayBale",
+    "object_name": "SM_Hay_Bale_Set2_37",
+    "pose": [
+      [
+        55.86232376098633,
+        -16.129316329956055,
+        -1.6799978017807007
+      ]
+    ],
+    "size": " small(2.25*1.5=3.38 squares)",
+    "description": " Rectangular stack of dried hay, light brown fibrous texture, bound with twine, typically used for animal feed or bedding.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "17",
+    "start_pose": {
+      "start_position": [
+        79.57356440647098,
+        27.58631740626012,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7586056680355455,
+        0.6515500291031715
+      ]
+    },
+    "info": {
+      "geodesic_distance": 70,
+      "euclidean_distance": 50.0158
+    },
+    "map_name": "Slum_test",
+    "true_name": " HayBale",
+    "object_name": "SM_Hay_Bale_Set2_37",
+    "pose": [
+      [
+        55.86232376098633,
+        -16.129316329956055,
+        -1.6799978017807007
+      ]
+    ],
+    "size": " small(2.25*1.5=3.38 squares)",
+    "description": " Rectangular stack of dried hay, light brown fibrous texture, bound with twine, typically used for animal feed or bedding.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "20",
+    "start_pose": {
+      "start_position": [
+        -49.46573614909266,
+        -10.562670210944855,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9853750814031936,
+        0.17039938071967733
+      ]
+    },
+    "info": {
+      "geodesic_distance": 87,
+      "euclidean_distance": 56.7928
+    },
+    "map_name": "Slum_test",
+    "true_name": " CablePulley",
+    "object_name": "SM_Cable_Pulley_8",
+    "pose": [
+      [
+        -10.037675857543945,
+        29.670682907104492,
+        0.22000212967395782
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 squares)",
+    "description": " Cylindrical shape with grooved edges, dark metal texture, central opening for cable passage, used for guiding or supporting cables.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "40",
+    "start_pose": {
+      "start_position": [
+        -12.522382867231812,
+        57.09978150963771,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9652918002109602,
+        -0.26117377442132994
+      ]
+    },
+    "info": {
+      "geodesic_distance": 33,
+      "euclidean_distance": 26.5953
+    },
+    "map_name": "Slum_test",
+    "true_name": " PipeConnection",
+    "object_name": "SM_Plier_13",
+    "pose": [
+      [
+        -9.237675666809082,
+        31.27068328857422,
+        -1.5799977779388428
+      ]
+    ],
+    "size": " small(0.25*0.25=0.06 squares)",
+    "description": " Narrow vertical frame, metallic silver texture, looped ring structure at the top with a slim support pole, likely for hose attachment or alignment.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "61",
+    "start_pose": {
+      "start_position": [
+        -20.190717697436284,
+        -70.18978598051473,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8956603853426166,
+        0.44473865823415387
+      ]
+    },
+    "info": {
+      "geodesic_distance": 15,
+      "euclidean_distance": 10.3661
+    },
+    "map_name": "Slum_test",
+    "true_name": " Table",
+    "object_name": "SM_Table01_57",
+    "pose": [
+      [
+        -14.437675476074219,
+        -68.32931518554688,
+        1.4200021028518677
+      ]
+    ],
+    "size": " small(1.25*1.25=1.56 squares)",
+    "description": " Geometric rectangular form, weathered wooden texture with worn surface, four straight legs, used as a flat elevated surface for placing objects.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "92",
+    "start_pose": {
+      "start_position": [
+        11.440361643933912,
+        -45.887189287649385,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6292876168325625,
+        0.7771725003505939
+      ]
+    },
+    "info": {
+      "geodesic_distance": 19,
+      "euclidean_distance": 12.7319
+    },
+    "map_name": "Slum_test",
+    "true_name": " Human",
+    "object_name": "BP_fe_casual_02_b_2",
+    "pose": [
+      [
+        3.6795654296875,
+        -51.867244720458984,
+        1.13076913356781
+      ]
+    ],
+    "size": " small(1.75*0.75=1.31 squares)",
+    "description": " Upright bipedal form, wearing a white long-sleeve shirt and blue jeans, dark hair, general human proportions.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Slum.json",
+    "scene_key": "Slum"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -30.16203876424798,
+        0.1954642596416889,
+        -6.400000095367432
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.34699427638818364,
+        -0.937867246551366
+      ]
+    },
+    "info": {
+      "geodesic_distance": 90,
+      "euclidean_distance": 38.3278
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "Truck",
+    "object_name": "SM_BoxTruck_01a_200",
+    "pose": [
+      [
+        7.799999713897705,
+        1.899999976158142,
+        1.5999999046325684
+      ]
+    ],
+    "size": "big(3.25*7.0=22.75 squares)",
+    "description": "Geometric rectangular form, matte gray metal exterior with ribbed roof and dual rear doors, black trim and utility detailing, designed for cargo transport or delivery use.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        -33.307850907995345,
+        94.68443123134455,
+        -6.600000023841858
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9721622213177729,
+        0.2343088035957969
+      ]
+    },
+    "info": {
+      "geodesic_distance": 58,
+      "euclidean_distance": 40.9944
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "ElectricTransformer",
+    "object_name": "SM_Electric_Transformer_88",
+    "pose": [
+      [
+        -15.5,
+        58.099998474121094,
+        1.399999976158142
+      ]
+    ],
+    "size": "small(1.0*0.75=0.75 squares)",
+    "description": "Geometric vertical form, metallic gray surface with weathered texture and faint red marking, boxy enclosure mounted on a wide base, likely used for power distribution or electrical control.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "13",
+    "start_pose": {
+      "start_position": [
+        43.120342843053564,
+        141.31914588771167,
+        -7.411499977111816
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9893439127495085,
+        0.14559746668638437
+      ]
+    },
+    "info": {
+      "geodesic_distance": 107,
+      "euclidean_distance": 38.5234
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_construction_worker_02_a_2",
+    "pose": [
+      [
+        11.399999618530273,
+        162.59999084472656,
+        0.5885000228881836
+      ]
+    ],
+    "size": "small(1.0*1.5=1.5 squares)",
+    "description": "Organic upright form, neon yellow safety vest over dark clothing with brown boots, white hard hat, walking posture suggests construction or industrial activity.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "14",
+    "start_pose": {
+      "start_position": [
+        6.446167738720412,
+        150.53464702036894,
+        -7.411499977111816
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9544558997197155,
+        -0.29835203282402567
+      ]
+    },
+    "info": {
+      "geodesic_distance": 25,
+      "euclidean_distance": 16.0043
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_construction_worker_01_2",
+    "pose": [
+      [
+        12.899999618530273,
+        164.3000030517578,
+        0.5885000228881836
+      ]
+    ],
+    "size": "small(1.0*1.5=1.5 squares)",
+    "description": "Organic upright form, gray jumpsuit with yellow gloves and black boots, bald head, walking posture suggests movement or task-oriented activity.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "15",
+    "start_pose": {
+      "start_position": [
+        -56.53174880325337,
+        86.96463800649246,
+        -7.585249960422516
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.47519568724298833,
+        -0.8798801388971478
+      ]
+    },
+    "info": {
+      "geodesic_distance": 82,
+      "euclidean_distance": 56.1676
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "Human",
+    "object_name": "BP_fe_sport_02_b_2",
+    "pose": [
+      [
+        -12.699999809265137,
+        52.19999694824219,
+        0.41475003957748413
+      ]
+    ],
+    "size": "small(1.0*1.5=1.5 squares)",
+    "description": "Organic upright form, dark purple jacket with light gray pants and brown shoes, brown hair and cap, walking posture suggests movement or activity.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "17",
+    "start_pose": {
+      "start_position": [
+        13.936573768153089,
+        12.543881325492436,
+        -6.599999785423279
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6108597410038722,
+        -0.7917388311941521
+      ]
+    },
+    "info": {
+      "geodesic_distance": 14,
+      "euclidean_distance": 8.7438
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "ElectricBox",
+    "object_name": "SM_ElectricBox45",
+    "pose": [
+      [
+        19.914894104003906,
+        16.50790023803711,
+        1.4000002145767212
+      ]
+    ],
+    "size": "small(0.75*0.5=0.38 squares)",
+    "description": "Rectangular, upright metal structure with a flat top, weathered yellow exterior with visible rust and dirt, typical of an outdoor electrical utility box.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "18",
+    "start_pose": {
+      "start_position": [
+        66.42946865974717,
+        -2.5087752494839854,
+        -6.599999785423279
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.2959418288282147,
+        0.955205964151089
+      ]
+    },
+    "info": {
+      "geodesic_distance": 131,
+      "euclidean_distance": 50.9243
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "ElectricBox",
+    "object_name": "SM_ElectricBox46",
+    "pose": [
+      [
+        19.914894104003906,
+        17.607900619506836,
+        1.4000002145767212
+      ]
+    ],
+    "size": "small(0.75*0.5=0.38 squares)",
+    "description": "Rectangular, upright metal structure with a flat top, worn red exterior with visible rust and dirt, typical of an outdoor electrical utility box.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "19",
+    "start_pose": {
+      "start_position": [
+        -0.4173233626059272,
+        1.6914977170945225,
+        -6.600000023841858
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.48528361742299836,
+        0.8743567982584964
+      ]
+    },
+    "info": {
+      "geodesic_distance": 61,
+      "euclidean_distance": 40.9736
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "TicketMachine",
+    "object_name": "SM_TicketMachine_24",
+    "pose": [
+      [
+        21.100000381469727,
+        36.20000076293945,
+        1.399999976158142
+      ]
+    ],
+    "size": "small(1.25*1.75=2.19 squares)",
+    "description": "Rectangular geometric form, light gray body with yellow top section, ticket slot and screen interface on front panel, used for purchasing transit tickets.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "26",
+    "start_pose": {
+      "start_position": [
+        64.64622701443744,
+        167.05160234317722,
+        -6.600000023841858
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9922768932777573,
+        0.12404260182309274
+      ]
+    },
+    "info": {
+      "geodesic_distance": 124,
+      "euclidean_distance": 57.0808
+    },
+    "map_name": "UrbanJapan_test",
+    "true_name": "GarbageBag",
+    "object_name": "SM_GarbageBag_03_21",
+    "pose": [
+      [
+        21.600000381469727,
+        129.89999389648438,
+        1.399999976158142
+      ]
+    ],
+    "size": "small(0.5*0.5=0.25 squares)",
+    "description": "Compact, rounded bag with a dark, crumpled exterior, tied at the top, typical of a filled plastic garbage bag.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "UrbanJapan.json",
+    "scene_key": "UrbanJapan"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -2.4570492721282733,
+        1.8867723059400525,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3974821248666913,
+        0.9176099173458513
+      ]
+    },
+    "info": {
+      "geodesic_distance": 50,
+      "euclidean_distance": 32.768
+    },
+    "map_name": "Venice_test",
+    "true_name": " Cloth",
+    "object_name": "Cloth_04_14",
+    "pose": [
+      [
+        -25.502294540405273,
+        24.417001724243164,
+        -1.0799981355667114
+      ]
+    ],
+    "size": " small(1.25*0.25=0.31 squares)",
+    "description": " Organic draped form, muted red textile with subtle wrinkling, soft texture, likely decorative or for shading use.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        -46.85112975679832,
+        72.09347333716471,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8779994904757762,
+        0.4786615659568642
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 51.7577
+    },
+    "map_name": "Venice_test",
+    "true_name": " Cloth",
+    "object_name": "Cloth_06_11",
+    "pose": [
+      [
+        -25.502294540405273,
+        25.317001342773438,
+        -1.0799981355667114
+      ]
+    ],
+    "size": " small(1*0.25=0.25 squares)",
+    "description": " Organic vertical sheet, deep blue fabric with realistic folds, soft material, suspended likely for shade or signaling.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "2",
+    "start_pose": {
+      "start_position": [
+        -7.107959397945123,
+        46.365258590109946,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6371294460064134,
+        -0.7707568157542045
+      ]
+    },
+    "info": {
+      "geodesic_distance": 58,
+      "euclidean_distance": 39.3324
+    },
+    "map_name": "Venice_test",
+    "true_name": " Cart",
+    "object_name": "SmallCart_01_A_18",
+    "pose": [
+      [
+        -27.402294158935547,
+        13.6170015335083,
+        0.9200018048286438
+      ]
+    ],
+    "size": " mid(1.75*1=1.75 squares)",
+    "description": " Geometric box shape, weathered gray metal surface with visible dents and rust, mounted on small caster wheels, likely used for storage or transport of tools or materials.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "14",
+    "start_pose": {
+      "start_position": [
+        9.925168756495808,
+        -21.34828377179104,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9326434246267115,
+        -0.3607994491411533
+      ]
+    },
+    "info": {
+      "geodesic_distance": 85,
+      "euclidean_distance": 56.2058
+    },
+    "map_name": "Venice_test",
+    "true_name": " Canopy",
+    "object_name": "Shelf_01_B_108",
+    "pose": [
+      [
+        -29.202293395996094,
+        18.21700096130371,
+        0.9200018048286438
+      ]
+    ],
+    "size": " mid(2.75*2=5.5 squares)",
+    "description": " Geometric rectangular form, faded red fabric stretched over thin blue metal poles, wrinkled canopy surface with light stains, provides shaded shelter.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "19",
+    "start_pose": {
+      "start_position": [
+        91.96955207718216,
+        -8.326038490406066,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6422816260851226,
+        0.7664687291686796
+      ]
+    },
+    "info": {
+      "geodesic_distance": 81,
+      "euclidean_distance": 45.6895
+    },
+    "map_name": "Venice_test",
+    "true_name": " Desk",
+    "object_name": "SM_Building_Int_Writing_Desk_141",
+    "pose": [
+      [
+        132.5977020263672,
+        11.01700210571289,
+        0.9200018048286438
+      ]
+    ],
+    "size": " small(1.5*0.75=1.13 squares)",
+    "description": " Geometric rectangular structure, reddish-brown wooden surface with beveled edges, mounted on small wheels, functional design suited for writing or computing tasks.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "33",
+    "start_pose": {
+      "start_position": [
+        65.38834453014229,
+        -13.35485097029106,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3822001271714464,
+        -0.9240795760052974
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 48.0833
+    },
+    "map_name": "Venice_test",
+    "true_name": " Rosebush",
+    "object_name": "Plant_Red_73",
+    "pose": [
+      [
+        27.797704696655273,
+        16.01700210571289,
+        -0.9799981713294983
+      ]
+    ],
+    "size": " small(1*1=1 square)",
+    "description": " Organic round form, green leafy foliage with clusters of pink-red blossoms, soft petal texture and thorny stems, ornamental plant likely used for decorative landscaping.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "38",
+    "start_pose": {
+      "start_position": [
+        -8.901523876092696,
+        83.70027181821737,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.988992185831311,
+        0.1479677544757832
+      ]
+    },
+    "info": {
+      "geodesic_distance": 44,
+      "euclidean_distance": 33.1687
+    },
+    "map_name": "Venice_test",
+    "true_name": "Boat",
+    "object_name": "BP_gondola3_2",
+    "pose": [
+      [
+        -5.202294826507568,
+        115.31700134277344,
+        2.3200018405914307
+      ]
+    ],
+    "size": "big(8.75*2=17.5 squares)",
+    "description": "Geometric elongated form, glossy black wooden structure, red cushioned central seat with golden accents, pointed upward-curving ends indicating use for waterway transport.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "Venice.json",
+    "scene_key": "Venice"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        1.8484375859381146,
+        -31.251058356005554,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.07916478863820897,
+        0.996861543164279
+      ]
+    },
+    "info": {
+      "geodesic_distance": 68,
+      "euclidean_distance": 49.4479
+    },
+    "map_name": "WesternTown_test",
+    "true_name": " LightWall",
+    "object_name": "SM_LightWall01_5",
+    "pose": [
+      [
+        -20.021854400634766,
+        13.08395004272461,
+        -5.908769607543945
+      ]
+    ],
+    "size": " small(0.5*0.5=0.25 squares)",
+    "description": " Spherical shape, glossy dark surface with illuminated segments or embedded lighting, compact form suggests use as a decorative or signaling element.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WesternTown.json",
+    "scene_key": "WesternTown"
+  },
+  {
+    "episode_id": "2",
+    "start_pose": {
+      "start_position": [
+        10.828618318094215,
+        -19.357104101607817,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9837796916095592,
+        -0.17938093091686313
+      ]
+    },
+    "info": {
+      "geodesic_distance": 65,
+      "euclidean_distance": 46.0081
+    },
+    "map_name": "WesternTown_test",
+    "true_name": " SatDish",
+    "object_name": "SM_SatDish01_8",
+    "pose": [
+      [
+        -31.321855545043945,
+        -0.9160497784614563,
+        -7.108769416809082
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 squares)",
+    "description": " Concave circular shape, light gray metallic surface, mounted support arm with central feed horn, used for receiving satellite signals.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WesternTown.json",
+    "scene_key": "WesternTown"
+  },
+  {
+    "episode_id": "11",
+    "start_pose": {
+      "start_position": [
+        120.0589432872422,
+        -349.47998745428094,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.2928362058047085,
+        0.9561626203580134
+      ]
+    },
+    "info": {
+      "geodesic_distance": 17,
+      "euclidean_distance": 11.865
+    },
+    "map_name": "WesternTown_test",
+    "true_name": " HangingCloth",
+    "object_name": "SM_Hanging_Cloth_51",
+    "pose": [
+      [
+        130.47813415527344,
+        -354.7160339355469,
+        -4.808769226074219
+      ]
+    ],
+    "size": " small(0.5*0.25=0.13 squares)",
+    "description": " Tapered vertical form, soft dark green fabric texture with natural folds, appears suspended or draped, consistent with a small decorative or functional cloth.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WesternTown.json",
+    "scene_key": "WesternTown"
+  },
+  {
+    "episode_id": "12",
+    "start_pose": {
+      "start_position": [
+        175.92620332098772,
+        -318.7396028573894,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9640976047451089,
+        0.26554812845272296
+      ]
+    },
+    "info": {
+      "geodesic_distance": 84,
+      "euclidean_distance": 57.9348
+    },
+    "map_name": "WesternTown_test",
+    "true_name": " Barrel",
+    "object_name": "SM_WoodBarrel_61",
+    "pose": [
+      [
+        136.1781463623047,
+        -360.51605224609375,
+        -1.4087694883346558
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 squares)",
+    "description": " Cylindrical shape, dark brown wood with metal bands, vertically aligned planks with rounded edges, used for storage or transport of liquids or dry goods.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WesternTown.json",
+    "scene_key": "WesternTown"
+  },
+  {
+    "episode_id": "25",
+    "start_pose": {
+      "start_position": [
+        245.53917522300583,
+        177.43580827299138,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8414030199655969,
+        -0.5404081401984738
+      ]
+    },
+    "info": {
+      "geodesic_distance": 164,
+      "euclidean_distance": 51.4366
+    },
+    "map_name": "WesternTown_test",
+    "true_name": " Crate",
+    "object_name": "SM_Wood_Box_125",
+    "pose": [
+      [
+        197.1781463623047,
+        191.88394165039062,
+        -16.908769607543945
+      ]
+    ],
+    "size": " mid(1.5*1.25=1.88 squares)",
+    "description": " Rectangular geometric shape, brown wooden slats with visible gaps, reinforced corners, typically used for storage or shipping of goods.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WesternTown.json",
+    "scene_key": "WesternTown"
+  },
+  {
+    "episode_id": "26",
+    "start_pose": {
+      "start_position": [
+        245.8488745592221,
+        -98.5354405403132,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9320051543258404,
+        0.3624450197065293
+      ]
+    },
+    "info": {
+      "geodesic_distance": 143,
+      "euclidean_distance": 44.6205
+    },
+    "map_name": "WesternTown_test",
+    "true_name": "SignPost",
+    "object_name": "SM_DirectionSign_129",
+    "pose": [
+      [
+        240.1781463623047,
+        -54.41604995727539,
+        -10.508769035339355
+      ]
+    ],
+    "size": "small(2.25*0.25=0.56 squares)",
+    "description": "Narrow vertical post with a single horizontal arrow board, rusted metal texture with directional point, used for wayfinding or indicating direction.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WesternTown.json",
+    "scene_key": "WesternTown"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -48.43357554033943,
+        141.54276355323893,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9680125083167007,
+        -0.2509019404915184
+      ]
+    },
+    "info": {
+      "geodesic_distance": 26,
+      "euclidean_distance": 18.5071
+    },
+    "map_name": "WinterTown_test",
+    "true_name": " Apple",
+    "object_name": "SM_Apple_6",
+    "pose": [
+      [
+        -57.69274139404297,
+        125.8072509765625,
+        -3.9712743759155273
+      ]
+    ],
+    "size": " small(0.25*0.25=0.06 squares)",
+    "description": " Organic round shape, red glossy surface with subtle stem detail, smooth skin and small size, consistent with edible fruit.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WinterTown.json",
+    "scene_key": "WinterTown"
+  },
+  {
+    "episode_id": "19",
+    "start_pose": {
+      "start_position": [
+        50.86822953857785,
+        -7.81411514014747,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3087697125500377,
+        0.9511368274921159
+      ]
+    },
+    "info": {
+      "geodesic_distance": 83,
+      "euclidean_distance": 54.4241
+    },
+    "map_name": "WinterTown_test",
+    "true_name": " CableCoil",
+    "object_name": "SM_Cable_Pulley_46",
+    "pose": [
+      [
+        12.907255172729492,
+        30.307254791259766,
+        1.228725552558899
+      ]
+    ],
+    "size": " small(0.75*0.75=0.56 squares)",
+    "description": " Cylindrical coil shape, dark textured material with concentric circular layering, appears as a large wound cable or hose on a spool, used for utility or industrial purposes.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WinterTown.json",
+    "scene_key": "WinterTown"
+  },
+  {
+    "episode_id": "22",
+    "start_pose": {
+      "start_position": [
+        -16.13536422310817,
+        -28.694070960322293,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3194003202069757,
+        -0.9476198791982371
+      ]
+    },
+    "info": {
+      "geodesic_distance": 48,
+      "euclidean_distance": 42.387
+    },
+    "map_name": "WinterTown_test",
+    "true_name": " SignPost",
+    "object_name": "SM_DirectionSign_57",
+    "pose": [
+      [
+        -54.19274139404297,
+        -24.6927433013916,
+        11.22872543334961
+      ]
+    ],
+    "size": " small(2.25*0.25=0.56 squares)",
+    "description": " Narrow vertical post with a single horizontal arrow board, rusted metal texture with directional point, used for wayfinding or indicating direction.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WinterTown.json",
+    "scene_key": "WinterTown"
+  },
+  {
+    "episode_id": "26",
+    "start_pose": {
+      "start_position": [
+        198.0630286624199,
+        -218.0224539040944,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3267092959927875,
+        -0.9451248784747427
+      ]
+    },
+    "info": {
+      "geodesic_distance": 60,
+      "euclidean_distance": 44.1591
+    },
+    "map_name": "WinterTown_test",
+    "true_name": " SignPost",
+    "object_name": "SM_DirectionSign_60",
+    "pose": [
+      [
+        212.40725708007812,
+        -180.69273376464844,
+        11.72872543334961
+      ]
+    ],
+    "size": " small(2.25*0.25=0.56 squares)",
+    "description": " Narrow vertical post with a single horizontal arrow board, rusted metal texture with directional point, used for wayfinding or indicating direction.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WinterTown.json",
+    "scene_key": "WinterTown"
+  },
+  {
+    "episode_id": "28",
+    "start_pose": {
+      "start_position": [
+        178.97148812265678,
+        -223.38565311497624,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.3267092959927875,
+        -0.9451248784747427
+      ]
+    },
+    "info": {
+      "geodesic_distance": 60,
+      "euclidean_distance": 57.3707
+    },
+    "map_name": "WinterTown_test",
+    "true_name": " SignPost",
+    "object_name": "SM_DirectionSign_60",
+    "pose": [
+      [
+        212.40725708007812,
+        -180.69273376464844,
+        11.72872543334961
+      ]
+    ],
+    "size": " small(2.25*0.25=0.56 squares)",
+    "description": " Narrow vertical post with a single horizontal arrow board, rusted metal texture with directional point, used for wayfinding or indicating direction.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WinterTown.json",
+    "scene_key": "WinterTown"
+  },
+  {
+    "episode_id": "31",
+    "start_pose": {
+      "start_position": [
+        223.8221804852261,
+        -227.80572098065386,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.8941130279573586,
+        0.4478413706179051
+      ]
+    },
+    "info": {
+      "geodesic_distance": 35,
+      "euclidean_distance": 47.98
+    },
+    "map_name": "WinterTown_test",
+    "true_name": " FoldedTent",
+    "object_name": "SM_Folded_Tent_Set2_66",
+    "pose": [
+      [
+        209.6072540283203,
+        -185.89273071289062,
+        11.528725624084473
+      ]
+    ],
+    "size": " small(1.25*1.25=1.56 squares)",
+    "description": " Clustered cylindrical shape, brown fabric texture with rope or strap bindings, resembles compacted outdoor shelter, consistent with transportable tent in storage configuration.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "WinterTown.json",
+    "scene_key": "WinterTown"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        29.085947217572624,
+        47.120360645937794,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.7153598886602782,
+        0.6987562019016034
+      ]
+    },
+    "info": {
+      "geodesic_distance": 70,
+      "euclidean_distance": 50.0632
+    },
+    "map_name": "DownTown_test",
+    "true_name": " Cloth",
+    "object_name": "Cloth_04_5",
+    "pose": [
+      [
+        8.170903205871582,
+        2.0933704376220703,
+        -0.5616179704666138
+      ]
+    ],
+    "size": " small(1.25*0.25=0.31 squares)",
+    "description": " Organic folded shape, muted red fabric with soft and slightly wrinkled texture, rectangular form suggesting use as cleaning or covering textile.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "DownTown.json",
+    "scene_key": "DownTown"
+  },
+  {
+    "episode_id": "10",
+    "start_pose": {
+      "start_position": [
+        1020.4896507334449,
+        -873.5163623090913,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.9124941433958372,
+        0.409089767982893
+      ]
+    },
+    "info": {
+      "geodesic_distance": 36,
+      "euclidean_distance": 23.8405
+    },
+    "map_name": "BrushifyUrban_test",
+    "true_name": "Human",
+    "object_name": "BP_ma_police_01_2",
+    "pose": [
+      [
+        1041.5999755859375,
+        -881.7999877929688,
+        0.35571685433387756
+      ]
+    ],
+    "size": "small(1.75*0.75=1.31 squares)",
+    "description": "Organic upright form, dark blue police uniform with matching hat, badge and utility belt visible, likely engaged in motion such as walking or running.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "BrushifyUrban.json",
+    "scene_key": "BrushifyUrban"
+  },
+  {
+    "episode_id": "1",
+    "start_pose": {
+      "start_position": [
+        -5.8125895772811305,
+        -70.77966941387956,
+        -7.07999312877655
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.6063662276770804,
+        0.7951855116466013
+      ]
+    },
+    "info": {
+      "geodesic_distance": 66,
+      "euclidean_distance": 43.6955
+    },
+    "map_name": "CityStreet_test",
+    "true_name": "Dog",
+    "object_name": "beagle_idleA_anim2_29",
+    "pose": [
+      [
+        21.19999885559082,
+        -36.79999923706055,
+        0.9200068712234497
+      ]
+    ],
+    "size": "small(1.25*0.5=0.63 squares)",
+    "description": "Organic quadrupedal form, short tan and white fur with dark accents, upright ears and curled tail, resembles a small companion breed.",
+    "category": "",
+    "used-in-train": 1,
+    "commonsenible": 1,
+    "source_file": "CityStreet.json",
+    "scene_key": "CityStreet"
+  },
+  {
+    "episode_id": "0",
+    "start_pose": {
+      "start_position": [
+        -282.7460905487492,
+        -107.54151603053101,
+        -10.0
+      ],
+      "start_quaternionr": [
+        0.0,
+        0.0,
+        0.27740825294681576,
+        -0.9607521330691884
+      ]
+    },
+    "info": {
+      "geodesic_distance": 72,
+      "euclidean_distance": 50.7181
+    },
+    "map_name": "Barnyard_test",
+    "true_name": " BusStop",
+    "object_name": "BusStop_2",
+    "pose": [
+      [
+        -328.3927307128906,
+        -86.79273986816406,
+        0.6287254095077515
+      ]
+    ],
+    "size": " big(5.0*3.0=15.0 squares)",
+    "description": " Geometric rectangular structure, transparent glass walls with dark metal framing, includes bench seating and overhanging roof panels, designed for public transit waiting area.",
+    "category": "",
+    "used-in-train": 0,
+    "commonsenible": 1,
+    "source_file": "Barnyard.json",
+    "scene_key": "Barnyard"
+  }
+]

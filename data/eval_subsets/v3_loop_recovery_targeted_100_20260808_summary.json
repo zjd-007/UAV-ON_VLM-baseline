@@ -1,0 +1,26 @@
+{
+  "source_result": "/data/zhujd/Aerial-ObjectNav/VLM-baseline/results/phi35_cfmem_v2_ckpt20997_full_20260802_215558/all_episodes.jsonl",
+  "source_dataset": "/data/zhujd/Aerial-ObjectNav/UAV-ON_dataset/splits/uavon_raw_json/test.json",
+  "selection_rule": "first full_rotation_loop step with middle-center and bottom-center depth > 4m",
+  "quotas": {
+    "step_limit_failure": 60,
+    "osr_only": 20,
+    "success": 10,
+    "collision": 10
+  },
+  "selected": 100,
+  "scene_counts": {
+    "Barnyard": 9,
+    "BrushifyUrban": 9,
+    "CabinLake": 9,
+    "CityStreet": 9,
+    "DownTown": 9,
+    "NYC": 9,
+    "Neighborhood": 9,
+    "Slum": 9,
+    "UrbanJapan": 9,
+    "Venice": 7,
+    "WesternTown": 6,
+    "WinterTown": 6
+  }
+}

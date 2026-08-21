@@ -1,0 +1,55 @@
+{
+  "name": "stop_visible_v2_framing_priority_20260812",
+  "status": "smoke_candidate",
+  "policy": {
+    "min_pixels": {
+      "small": 512,
+      "mid": 512,
+      "big": 512,
+      "unknown": 512
+    },
+    "min_bbox_short_side": {
+      "small": 24,
+      "mid": 24,
+      "big": 24,
+      "unknown": 24
+    },
+    "strong_pixels": {
+      "small": 800,
+      "mid": 800,
+      "big": 1000,
+      "unknown": 800
+    },
+    "min_relative_to_peak": 0.0,
+    "max_pixel_fraction": 0.75,
+    "max_edge_contact_fraction": 0.25,
+    "max_clipped_sides": 2,
+    "reject_opposite_borders": true,
+    "semantic_score_field": "clip_crop_description_score",
+    "min_semantic_score": 0.25,
+    "semantic_rank_field": "clip_crop_target_rank",
+    "max_semantic_rank": 5,
+    "require_semantic_for_weak_geometry": true,
+    "selection_mode": "best_recognition_view",
+    "preferred_pixel_fraction": {
+      "small": 0.02,
+      "mid": 0.1,
+      "big": 0.25,
+      "unknown": 0.1
+    },
+    "quality_weights": {
+      "occupancy": 0.18,
+      "center": 0.38,
+      "clipping": 0.22,
+      "distance": 0.1,
+      "semantic": 0.12
+    },
+    "quality_aggregation": "weighted_geometric",
+    "quality_near_distance_m": 8.0,
+    "quality_far_distance_m": 20.0,
+    "quality_center_max_offset": 0.55,
+    "semantic_score_low": 0.18,
+    "semantic_score_high": 0.32,
+    "earliest_within_best_score": 0.02
+  }
+}
